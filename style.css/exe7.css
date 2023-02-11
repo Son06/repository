@@ -1,0 +1,28 @@
+.demon {
+  width: 30px;
+  border-radius: 100px;
+  vertical-align: middle;
+  object-fit: cover;
+
+}
+
+.what {
+  color: gray;
+  font-size: 10px;
+  vertical-align: middle;
+  border: none;
+  margin-right: 10px;
+}
+
+.tweet-button {
+  background-color: rgb(63, 142, 191);
+  color: white;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 30px;
+  vertical-align: middle;
+  font-weight: bold;
+}

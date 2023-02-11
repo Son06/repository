@@ -1,0 +1,38 @@
+input {
+  background-color: lightgrey;
+  width: 280px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  font-weight: bold;
+  font-size: 11px;
+  margin-top: 5px;
+  margin-left: 450px;
+}
+
+.destination {
+  display: block;
+}
+
+button {
+  font-size: 11px;
+  font-weight: bold;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 20px;
+}
+
+.now-button {
+  margin-left: 450px;
+  color: rgb(232, 226, 226);
+  background-color: black;
+}
+
+.for-button {
+  margin-left: 10px;
+}
